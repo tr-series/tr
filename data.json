@@ -1,15 +1,125 @@
 [
   {
-    "url_slider": "https://raw.githubusercontent.com/ms-series/TR/slider/",
-    "url_series": "https://raw.githubusercontent.com/ms-series/TR/series/",
-    "url_share_app": "",
-    "url_privacy_policy": "https://ms-serieses.blogspot.com/p/privacy-policy-osman.html",
-    "is_my_app_recycler": "true",
-    "is_my_app_menu": "true",
-    "is_download_main_menu": "true",
-    "is_download_drawer_menu": "true",
-    "is_testing_app": "false",
-    "url_new_version": "",
-    "new_version_code": "1"
+    "category_title": "عثمان 1",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان 1",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 5",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
+  },
+  {
+    "category_title": "عثمان 2",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان 1",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 4",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
+  },
+  {
+    "category_title": "عثمان 3",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان 1",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 2",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المؤسس عثمان 5",
+        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
   }
 ]
