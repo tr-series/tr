@@ -1,15 +1,17 @@
 [
   {
-    "url_slider": "https://raw.githubusercontent.com/ms-series/TR/slider/",
-    "url_series": "https://raw.githubusercontent.com/ms-series/TR/series/",
-    "url_share_app": "",
-    "url_privacy_policy": "https://ms-serieses.blogspot.com/p/privacy-policy-osman.html",
-    "is_my_app_recycler": "true",
-    "is_my_app_menu": "true",
-    "is_download_main_menu": "true",
-    "is_download_drawer_menu": "true",
-    "is_testing_app": "false",
-    "url_new_version": "",
-    "new_version_code": "1"
+    "title": "قيامة أرطغرل",
+    "image": "https://1.bp.blogspot.com/-fKm2VwhNwbg/X3jzXPn52HI/AAAAAAAAA-I/72SsN9jke3kWka6rk8_YHcORNiH3sle6wCPcBGAYYCw/s320/ic_ertugrul_round.png",
+    "package_name": "com.ms_series.story_of_ertugrul"
+  },
+  {
+    "title": "المؤسس عثمان",
+    "image": "https://1.bp.blogspot.com/-FlucdZccS1w/X3jy4g6nieI/AAAAAAAAA98/o-aa34FmnMEmKQnYpFUcoQCR8mhsmeU-gCPcBGAYYCw/s320/ic_ertugrul_round.png",
+    "package_name": "com.ms_series.story_of_osman"
+  },
+  {
+    "title": "الطبيب المعجزة",
+    "image": "https://1.bp.blogspot.com/-vBoWFYQmdaI/X3juAFPU7tI/AAAAAAAAA9k/4wxrnfW16uQLb_NdfXp-g8k3mY1vlnQmQCPcBGAYYCw/s0/ic_launcher.png",
+    "package_name": "com.blogspot.appforallusers.MucizeDoktor"
   }
 ]
