@@ -6,8 +6,8 @@
     "url_privacy_policy": "https://ms-serieses.blogspot.com/p/privacy-policy-osman.html",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "is_testing_app": "false",
-    "adMob": "false",
-    "startApp": "false",
+    "adMob": "true",
+    "startApp": "true",
     "url_new_version": "",
     "new_version_code": "1"
   }
