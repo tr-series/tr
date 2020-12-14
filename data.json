@@ -1,17 +1,31 @@
-[
-  {
-    "title": "قيامة أرطغرل",
-    "image": "https://1.bp.blogspot.com/-fKm2VwhNwbg/X3jzXPn52HI/AAAAAAAAA-I/72SsN9jke3kWka6rk8_YHcORNiH3sle6wCPcBGAYYCw/s320/ic_ertugrul_round.png",
-    "package_name": "com.ms_series.story_of_ertugrul"
-  },
-  {
-    "title": "المؤسس عثمان",
-    "image": "https://1.bp.blogspot.com/-FlucdZccS1w/X3jy4g6nieI/AAAAAAAAA98/o-aa34FmnMEmKQnYpFUcoQCR8mhsmeU-gCPcBGAYYCw/s320/ic_ertugrul_round.png",
-    "package_name": "com.ms_series.story_of_osman"
-  },
-  {
-    "title": "الطبيب المعجزة",
-    "image": "https://1.bp.blogspot.com/-vBoWFYQmdaI/X3juAFPU7tI/AAAAAAAAA9k/4wxrnfW16uQLb_NdfXp-g8k3mY1vlnQmQCPcBGAYYCw/s0/ic_launcher.png",
-    "package_name": "com.blogspot.appforallusers.MucizeDoktor"
-  }
-]
+[{
+  "slide_title": "موسم 1 الحلقه 1",
+  "slide_image": "https://1.bp.blogspot.com/-fKm2VwhNwbg/X3jzXPn52HI/AAAAAAAAA-I/72SsN9jke3kWka6rk8_YHcORNiH3sle6wCPcBGAYYCw/s320/ic_ertugrul_round.png",
+  "server_translator":[{
+      "server_title": "سيرفر 1",
+      "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-s9x3l1e31vn3.html' frameborder='0' allow='autoplay'></iframe>"
+    },
+    {
+      "server_title": "سيرفر 2",
+      "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-nbc322lk61io.html' frameborder='0' allow='autoplay'></iframe>"
+    },
+    {
+      "server_title": "سيرفر 3",
+      "server_link": "<video controls='controls' controlslist='nodownload' height='100%' poster='https://1.bp.blogspot.com/-eYFdYbh-Meg/XwTs-0Ipg2I/AAAAAAAAA48/04Ju2lU4EEgXFCjA_tnCwVl5yEsuJ3RgwCK4BGAsYHg/s320/thumbnail_os.png' preload='metadata' width='100%'><source src='https://archive.org/download/ms_series_os/os1.mp4'></source></video>"
+    }]
+},{
+  "slide_title": "موسم 1 الحلقه 1",
+  "slide_image": "https://1.bp.blogspot.com/-fKm2VwhNwbg/X3jzXPn52HI/AAAAAAAAA-I/72SsN9jke3kWka6rk8_YHcORNiH3sle6wCPcBGAYYCw/s320/ic_ertugrul_round.png",
+  "server_translator":[{
+      "server_title": "سيرفر 1",
+      "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-99t4wahi04aj.html' frameborder='0' allow='autoplay'></iframe>"
+    },
+    {
+      "server_title": "سيرفر 2",
+      "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-up7vk2hufrt9.html' frameborder='0' allow='autoplay'></iframe>"
+    },
+    {
+      "server_title": "سيرفر 3",
+      "server_link": "<video controls='controls' controlslist='nodownload' height='100%' poster='https://1.bp.blogspot.com/-eYFdYbh-Meg/XwTs-0Ipg2I/AAAAAAAAA48/04Ju2lU4EEgXFCjA_tnCwVl5yEsuJ3RgwCK4BGAsYHg/s320/thumbnail_os.png' preload='metadata' width='100%'><source src='https://archive.org/download/ms_series_os/os2.mp4'></source></video>"
+    }]
+}]
