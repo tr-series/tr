@@ -4,10 +4,7 @@
     "url_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "url_share_app": "",
     "url_privacy_policy": "https://ms-serieses.blogspot.com/p/privacy-policy-osman.html",
-    "is_my_app_recycler": "true",
-    "is_my_app_menu": "true",
-    "is_download_main_menu": "true",
-    "is_download_drawer_menu": "true",
+    "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "is_testing_app": "false",
     "url_new_version": "",
     "new_version_code": "1"
