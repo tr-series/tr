@@ -1,5 +1,46 @@
 [
   {
+    "category_title": "دراما",
+    "category":[
+      {
+        "series_title": "منزلي",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/مسلسل-منزلي.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/mnzly/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "علي رضا",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/09/a.riza-long.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/3la_r'9a/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "رامو",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/مسلسل-رامو.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/ramw/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "بابل",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/بابل-مترجم.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/babl/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "المعلم",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/مسلسل-منزلي-1.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/alm3lm/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "اللهيب",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/10/Alev-Alev-long.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/allhyb/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
+  },
+  {
     "category_title": "عثمان 1",
     "category":[
       {
@@ -29,35 +70,6 @@
         "series_title": "المؤسس عثمان 2",
         "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
         "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      }
-    ]
-  },
-  {
-    "category_title": "دراما",
-    "category":[
-      {
-        "series_title": "منزلي",
-        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/مسلسل-منزلي.jpg",
-        "series_link": "https://raw.githubusercontent.com/tr-series/tr/mnzly/",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      },
-      {
-        "series_title": "علي رضا",
-        "series_image": "https://esheeq.net/wp-content/uploads/2020/09/a.riza-long.jpg",
-        "series_link": "https://raw.githubusercontent.com/tr-series/tr/3la_r'9a/",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      },
-      {
-        "series_title": "رامو",
-        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/مسلسل-رامو.jpg",
-        "series_link": "https://raw.githubusercontent.com/tr-series/tr/ramw/",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      },
-      {
-        "series_title": "بابل",
-        "series_image": "https://esheeq.net/wp-content/uploads/2020/05/بابل-مترجم.jpg",
-        "series_link": "https://raw.githubusercontent.com/tr-series/tr/babl/",
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       }
     ]
