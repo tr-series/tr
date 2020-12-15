@@ -101,6 +101,29 @@
     ]
   },
   {
+    "category_title": "أكشن",
+    "category":[
+      {
+        "series_title": "المؤسس عثمان",
+        "series_image": "https://egynow.tv/wp-content/uploads/2020/10/مسلسل-المؤسس-عثمان-الموسم-الثاني-مترجم-1.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_alm2ss_3thman/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "علي رضا",
+        "series_image": "https://esheeq.net/wp-content/uploads/2020/09/a.riza-long.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/3la_r'9a/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "",
+        "series_image": "",
+        "series_link": "",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
+  },
+  {
     "category_title": "رومانسي",
     "category":[
       {
@@ -131,29 +154,6 @@
         "series_title": "اتصل بمدير أعمالي",
         "series_image": "https://egynow.tv/wp-content/uploads/2020/08/مسلسل-اتصل-بوكيلي-مترجم.jpg",
         "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_at9l_bmdyr_a3maly/",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      },
-      {
-        "series_title": "",
-        "series_image": "",
-        "series_link": "",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      }
-    ]
-  },
-  {
-    "category_title": "أكشن",
-    "category":[
-      {
-        "series_title": "المؤسس عثمان",
-        "series_image": "https://egynow.tv/wp-content/uploads/2020/10/مسلسل-المؤسس-عثمان-الموسم-الثاني-مترجم-1.jpg",
-        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_alm2ss_3thman/",
-        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
-      },
-      {
-        "series_title": "علي رضا",
-        "series_image": "https://esheeq.net/wp-content/uploads/2020/09/a.riza-long.jpg",
-        "series_link": "https://raw.githubusercontent.com/tr-series/tr/3la_r'9a/",
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
