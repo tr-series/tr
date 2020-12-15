@@ -8,6 +8,7 @@
     "is_testing_app": "false",
     "startApp_splash": "false",
     "startApp": "false",
+    "facebookAds": "false",
     "adMob": "true",
     "url_new_version": "",
     "new_version_code": "1"
