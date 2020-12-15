@@ -6,7 +6,7 @@
     "dialog_share": "true",
     "url_privacy_policy": "https://ms-serieses.blogspot.com/p/privacy-policy-osman.html",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
-    "is_testing_app": "true",
+    "is_testing_app": "false",
     "startApp_splash": "false",
     "startApp": "false",
     "facebookAds": "false",
