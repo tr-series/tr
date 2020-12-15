@@ -43,16 +43,22 @@
         "series_image": "https://esheeq.net/wp-content/uploads/2020/05/مسلسل-السد.jpg",
         "series_link": "https://raw.githubusercontent.com/tr-series/tr/alsd/",
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "ماريا و مصطفى",
+        "series_image": "https://egynow.tv/wp-content/uploads/2020/08/mariaetmostafa-275x380-1.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_marya_w_m96fa/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       }
     ]
   },
   {
-    "category_title": "عثمان 1",
+    "category_title": "رومانسي",
     "category":[
       {
-        "series_title": "المؤسس عثمان 1",
-        "series_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-        "series_link": "https://raw.githubusercontent.com/ms-series/TR/os/",
+        "series_title": "في السراء و الضراء",
+        "series_image": "https://egynow.tv/wp-content/uploads/2020/09/MV5BN2NkZjdiOWQtOGI1ZC00ZDg3LWExMDQtZTM1YTQyYzU5OWFjXkEyXkFqcGdeQXVyMTIzNTE5MDkz._V1_UY1200-tt12872494.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_fy_alsra2_w_al'9ra2/",
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
