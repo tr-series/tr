@@ -1,551 +1,591 @@
 [{
-  "season_title": "موسم 1",
-  "season":[{
-      "video_title": "موسم 1 الحلقة 1",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor1.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508483140124' frameborder='0' allow='autoplay'></iframe>"
+    "season_title": "موسم 1",
+    "season": [{
+        "video_title": "موسم 1 الحلقة 1",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor1.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508483140124' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-35gx180ipw8n.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 2",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor2.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482943516' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ngvf1gbc4u8u.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 3",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor3.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482746908' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ivisk1vg0dm4.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 4",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor4.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482550300' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-7u8dze8jgyyu.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 5",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor5.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508483074588' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-681aqe38msuu.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 6",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor6.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508483009052' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-cdtmwruuvtr4.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 7",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor7.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482681372' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-m06zq0wc78po.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 8",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor8.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482877980' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-5tl78x09bfec.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 9",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor9.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482812444' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-5ldylf1hln1a.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 10",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor10.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482615836' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r1hh48ham7tw.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 11",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor11.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597500444' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-0qzld85cff9j.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 12",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor12.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597303836' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-h565rvq5k053.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 13",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor13.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597565980' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-82ekwrsy01wk.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 14",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor14.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596714012' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-amvbew13sts4.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 15",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor15.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-a1214ynj336y.html' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597041692' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 16",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor16.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596976156' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-b0mccbqz0yrl.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 17",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor17.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596582940' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-zrr0ri3vs6ii.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 18",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor18.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597434908' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-386sy5wj6zct.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 19",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor19.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596779548' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-lzzj5axj0rx0.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 20",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor20.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596910620' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-fotvaktzq8ye.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 21",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor21.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597107228' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qwuepufp05m1.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 22",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor22.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596845084' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-6pm1exs5exlo.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 23",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor23.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597172764' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-i4npybd25ffd.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 24",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor24.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597631516' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-uqusozw1k2x9.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 25",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor25.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597369372' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-vyja4ij0qkrm.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 26",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor26.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-lzgk4inkdgsh.html' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596648476' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 1 الحلقة 27",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor27.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597697052' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-4qt5ax0ldkse.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      }
+    ]
   },
   {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-35gx180ipw8n.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 2",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor2.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482943516' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ngvf1gbc4u8u.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 3",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor3.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482746908' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ivisk1vg0dm4.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 4",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor4.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482550300' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-7u8dze8jgyyu.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 5",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor5.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508483074588' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-681aqe38msuu.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 6",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor6.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508483009052' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-cdtmwruuvtr4.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 7",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor7.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482681372' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-m06zq0wc78po.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 8",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor8.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482877980' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-5tl78x09bfec.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 9",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor9.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482812444' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-5ldylf1hln1a.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 10",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor10.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508482615836' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r1hh48ham7tw.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 11",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor11.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597500444' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-0qzld85cff9j.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 12",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor12.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597303836' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-h565rvq5k053.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 13",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor13.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597565980' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-82ekwrsy01wk.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 14",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor14.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596714012' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-amvbew13sts4.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },,
-  {
-      "video_title": "موسم 1 الحلقة 15",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor15.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-a1214ynj336y.html' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597041692' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 16",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor16.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596976156' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-b0mccbqz0yrl.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 17",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor17.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596582940' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-zrr0ri3vs6ii.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 18",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor18.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597434908' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-386sy5wj6zct.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 19",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor19.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596779548' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-lzzj5axj0rx0.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 20",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor20.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596910620' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-fotvaktzq8ye.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 21",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor21.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597107228' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qwuepufp05m1.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 22",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor22.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596845084' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-6pm1exs5exlo.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 23",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor23.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597172764' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-i4npybd25ffd.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 24",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor24.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597631516' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-uqusozw1k2x9.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 25",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor25.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597369372' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-vyja4ij0qkrm.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-   ,
-  {
-      "video_title": "موسم 1 الحلقة 26",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor26.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-lzgk4inkdgsh.html' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508596648476' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 1 الحلقة 27",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor27.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597697052' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-4qt5ax0ldkse.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    }]
-},
-{
-  "season_title": "موسم 2",
-  "season":[{
-      "video_title": "موسم 2 الحلقة 28",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor28.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597238300' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-8t86onuovz2i.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 29",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor29.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2983986268689' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-pxkb1we8ltco.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 30",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor30.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2998060845585' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ywzqqsh6hx05.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 31",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor31.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2950076566099' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-277unhg01bxs.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 32",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor32.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3028956350993' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-08w7a3p5bxo8.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 33",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor33.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3041878084113' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-i8w5dxp4g2tt.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 34",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor34.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3054748961297' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-dfmeewwz4i6v.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 35",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor35.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3069099837969' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-d18rdkitnh1p.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 36",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor36.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3087917451793' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-uyk6iqipw1q9.html' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 3",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-ki7sj1keh69t.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 37",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor37.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3107024800273' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-4jf5pon6v8vd.html' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 3",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-haqsekkugzoc.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    },
-  {
-      "video_title": "موسم 2 الحلقة 38",
-      "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor38.mp4",
-      "server_translator":[{
-    "server_title": "سيرفر 1",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3127911385617' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 2",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r386haafp6xf.html' frameborder='0' allow='autoplay'></iframe>"
-  },
-  {
-    "server_title": "سيرفر 3",
-    "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-294kfp6ns0d2.html' frameborder='0' allow='autoplay'></iframe>"
-
-  }]
-
-    }]
-}]
+    "season_title": "موسم 2",
+    "season": [{
+        "video_title": "موسم 2 الحلقة 28",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor28.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1508597238300' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-8t86onuovz2i.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 29",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor29.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2983986268689' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-pxkb1we8ltco.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 30",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor30.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2998060845585' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ywzqqsh6hx05.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 31",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor31.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2950076566099' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-277unhg01bxs.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 32",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor32.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3028956350993' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-08w7a3p5bxo8.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 33",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor33.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3041878084113' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-i8w5dxp4g2tt.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 34",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor34.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3054748961297' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-dfmeewwz4i6v.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 35",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor35.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3069099837969' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-d18rdkitnh1p.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 36",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor36.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3087917451793' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-uyk6iqipw1q9.html' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 3",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-ki7sj1keh69t.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 37",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor37.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3107024800273' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-4jf5pon6v8vd.html' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 3",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-haqsekkugzoc.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      },
+      {
+        "video_title": "موسم 2 الحلقة 38",
+        "video_download": "https://archive.org/download/mucizedoktor/MucizeDoktor38.mp4",
+        "server_translator": [{
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/3127911385617' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r386haafp6xf.html' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 3",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-294kfp6ns0d2.html' frameborder='0' allow='autoplay'></iframe>"
+
+          }
+        ]
+
+      }
+    ]
+  }
+]
