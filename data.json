@@ -3,13 +3,11 @@
     "url_slider": "https://raw.githubusercontent.com/tr-series/tr/slider/",
     "url_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "url_share_app": "",
-    "dialog_share": "true",
     "url_privacy_policy": "https://ms-serieses.blogspot.com/p/privacy-policy-osman.html",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "is_testing_app": "false",
     "startApp_splash": "false",
     "startApp": "true",
-    "facebookAds": "false",
     "adMob": "true",
     "url_new_version": "",
     "new_version_code": "1"
