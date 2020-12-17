@@ -8,7 +8,7 @@
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "is_testing_app": "false",
     "startApp_splash": "false",
-    "startApp": "true",
+    "startApp": "false",
     "adMob": "true",
     "url_new_version": "",
     "new_version_code": "1"
