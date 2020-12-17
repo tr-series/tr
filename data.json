@@ -7,9 +7,10 @@
     "url_copyright": "https://ms-tr-series.blogspot.com/p/copyging.html",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
     "is_testing_app": "false",
-    "startApp_splash": "false",
-    "startApp": "false",
     "adMob": "true",
+    "startApp_splash": "false",
+    "startApp_native": "false",
+    "startApp_interstitial": "false",
     "url_new_version": "",
     "new_version_code": "1"
   }
