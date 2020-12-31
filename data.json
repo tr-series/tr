@@ -10,7 +10,7 @@
     "adMob_testing": "true",
     "adMob_full": "false",
     "startApp_splash": "true",
-    "startApp_native": "true",
+    "startApp_native": "false",
     "startApp_interstitial": "true",
     "url_new_version": "",
     "new_version_code": "1"
